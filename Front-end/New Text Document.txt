@@ -1,0 +1,3 @@
+#060707 header color
+#DC3545   login color
+#FFC107 sign up button
